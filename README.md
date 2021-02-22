@@ -1,7 +1,7 @@
 IGMC Core integration/staging repository
 =====================================
 
-[![IGM COIN](https://github.com/IGMCOIN/IGMC/blob/master/img/igmc.jpg)](https://www.igmkorea.com)
+[![IGM COIN](https://github.com/IGMCOIN/IGMCoin/blob/master/img/igmc.jpg)](https://www.igmkorea.com)
 
 
 IGM Coin is an experimental digital currency that enables anonymous, instant
@@ -12,7 +12,7 @@ source software which enables the use of this currency.
 
 For more information, the IGM Coin Core software,
 More information at [www.igmkorea.com](https://www.igmkorea.com)
-[![IGM](https://github.com/IGMCOIN/IGMC/blob/master/img/IGM_CI.png)](https://www.igmkorea.com)
+[![IGM](https://github.com/IGMCOIN/IGMCoin/blob/master/img/IGM_CI.png)](https://www.igmkorea.com)
 
 ### Coin Specs
 

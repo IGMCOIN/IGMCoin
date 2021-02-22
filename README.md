@@ -22,8 +22,8 @@ More information at [www.igmkorea.com](https://www.igmkorea.com)
 <tr><td>RPC Port</td><td>22037</td></tr>
   <tr><td>TESTNET Port</td><td>22037</td></tr>
 <tr><td>Algo</td><td>Scrypt</td></tr>
-<tr><td>Block Time</td><td>15 seconds</td></tr>
-<tr><td>Difficulty Retargeting</td><td>24 hours</td></tr>
+<tr><td>Block Time</td><td>60 seconds</td></tr>
+<tr><td>Difficulty Retargeting</td><td>12 hours</td></tr>
 <tr><td>Max Coin Supply</td><td>10,000,000,000 IGMC</td></tr>
 <tr><td>Premine</td><td>500,000,000 IGMC*</td></tr>
 </table>
